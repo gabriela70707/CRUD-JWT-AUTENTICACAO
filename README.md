@@ -15,7 +15,7 @@ Esse CRUD foi desenvolvido em Django 🚀🌠.
 - ## Instalação ⚙
 1. Clone o repositório:
    ```bash
-   https://github.com/gabriela70707/CRUD-JWT-AUTENTICACAO.git
+   https://github.com/gabriela70707/CRUD-JWT-Autenticacao.git
 
 pip install -m venv env
 
