@@ -28,7 +28,7 @@ python manage.py runserver
 Acesse a API localmente em http://127.0.0.1:8000/.
 
 ## Documentação 📑
-Veja a documentação completa [aqui]([https://documenter.getpostman.com/view/41931886/2sAYkGLf99](https://documenter.getpostman.com/view/41931886/2sB2cShjFt)).
+Veja a documentação completa [aqui](https://documenter.getpostman.com/view/41931886/2sB2cShjFt).
 
 
 
